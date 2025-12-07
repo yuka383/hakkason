@@ -1,0 +1,10 @@
+Host %HOST%
+Port %PORT%
+HostName %IP%
+User %HOST%
+IdentityFile /home/ubuntu/.ssh/%HOST%
+Host %HOST%
+Port %PORT%
+HostName %IP%
+User %HOST%
+IdentityFile /home/ubuntu/.ssh/%HOST%
